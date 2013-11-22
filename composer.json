@@ -1,0 +1,15 @@
+{
+    "name": "tactics/tt-updater-loggable-behaviour-plugin",
+    "description": "Propel behaviour that creates created_at, created_by, updated_at and updated_by fields.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gert Vrebos",
+            "email": "gert@tactics.be"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
