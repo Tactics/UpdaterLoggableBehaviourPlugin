@@ -1,5 +1,6 @@
 {
     "name": "tactics/tt-updater-loggable-behaviour-plugin",
+    "type": "symfony1-plugin",
     "description": "Propel behaviour that creates created_at, created_by, updated_at and updated_by fields.",
     "license": "MIT",
     "authors": [
