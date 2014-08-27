@@ -9,7 +9,7 @@
  * derde partij. Meer informatie in het desbetreffende aankoopcontract.
  */
 
-function show_last_update($object, $format = "<div class='object_updated_at'>Laatst gewijzigd door %s op %s</div>")
+function show_last_update($object, $format = "<span class='object_updated_at'>Laatst gewijzigd door %s op %s</span>")
 {
   if ($object->getUpdatedAt())
   {
